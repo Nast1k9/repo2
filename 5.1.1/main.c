@@ -2,6 +2,13 @@
 #include <time.h>
 #include <stdlib.h>
 
+// git init
+// git add .
+// git commit -m "Commit message"
+// git branch -M origin
+// git remote add URLGITTTTT
+// git push -u origin
+
 void examples_integers() {
     printf("--- Integers Example ---\n");
     unsigned long long l = 1;
@@ -12,6 +19,10 @@ void examples_integers() {
         i += 1;
     }
 }
+
+// some changes
+ 
+// some more changes
 
 void examples_factorial_char() {
     printf("\n--- Factorial char Example ---\n");
